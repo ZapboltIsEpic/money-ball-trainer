@@ -1,2 +1,3 @@
 # money-ball-trainer
-Basketball Tracker App
+Created using the MERN Stack
+Basketball Tracker App 
