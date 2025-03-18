@@ -1,0 +1,19 @@
+{
+  "name": "money-ball-trainer",
+  "version": "1.0.0",
+  "description": "Created using the MERN Stack\r Basketball Tracker App",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1"
+  }
+}
